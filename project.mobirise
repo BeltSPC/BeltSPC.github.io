@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSpc",
-    "currentPage": "Beltshop.html",
+    "currentPage": "Home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 42,
     "versionPublish": "4.5.2",
@@ -178,7 +178,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Basic Black Belt<br>€ 19,95",
+                "title": "&nbsp;BLACK BELT<br>€ 19,95",
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"BuyBasicBlackBelt.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> "
@@ -189,7 +189,7 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Premium Belt<br>€ 24,95",
+                "title": "RED BELT<br>€ 19,95",
                 "contentAlign": "center",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> "
