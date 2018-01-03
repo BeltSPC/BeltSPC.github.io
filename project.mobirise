@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BeltSpc",
-    "currentPage": "Home.html",
+    "currentPage": "Beltshop.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 42,
     "versionPublish": "4.5.2",
@@ -181,7 +181,7 @@
                 "title": "Basic Black Belt<br>€ 19,95",
                 "contentAlign": "center",
                 "text": "",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"BuyBasicBlackBelt.html\" data-toolbar=\"-mbrBtnMove\">buy</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"BuyBasicBlackBelt.html\" data-toolbar=\"-mbrBtnMove\">BUY</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/25552499-1409577799165677-1952985729-o-2000x1500.jpg",
