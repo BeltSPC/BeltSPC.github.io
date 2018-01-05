@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "BeltSpc",
-    "currentPage": "BLACKBELT.html",
+    "currentPage": "Home.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -821,28 +821,24 @@
         },
         {
           "_params": {
-            "inverse": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#f0f0f0",
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "counters": true,
-            "facebook": false,
-            "google": false,
-            "twitter": false
+            "overlayOpacity": 0.5
           },
-          "text": "",
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/beltspc/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-q"
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-20"
         }
       ]
     },
